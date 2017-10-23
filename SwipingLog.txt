@@ -1,0 +1,3319 @@
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 118
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 118
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 118
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 118
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 118
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 118
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 117
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 117
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 116
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 116
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 115
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 115
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 115
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 116
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 116
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 116
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 116
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 117
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 117
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 116
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 116
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 116
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 116
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 115
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 115
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 115
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 113
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 113
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 113
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 112
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 112
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 110
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 110
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 109
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 106
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 106
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 106
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 106
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 105
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 105
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 105
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 105
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 105
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 105
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 103
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 103
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 102
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 102
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 98
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 98
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 95
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 95
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 92
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 92
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 89
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 89
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 86
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 86
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 82
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 82
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 78
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 78
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 75
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 75
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 72
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 68
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 68
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 68
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 62
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 62
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 57
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 54
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 54
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 54
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 52
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 52
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 50
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 48
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 48
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 49
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 49
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 55
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 55
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 63
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 63
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 71
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 71
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 71
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 76
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 82
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 82
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 82
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 87
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 87
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 90
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 90
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 93
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 93
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 98
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 98
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 100
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 100
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 103
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 103
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 105
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 105
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 109
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 109
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 112
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 112
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 114
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 114
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 118
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 118
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 121
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 121
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 124
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 124
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 127
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 127
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 129
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 129
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 129
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 133
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 135
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 135
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 135
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 138
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 138
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 139
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 139
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 139
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 139
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 137
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 137
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 129
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 129
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 121
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 121
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 114
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 114
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 108
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 108
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 103
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 103
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 103
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 98
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 95
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 95
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 95
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 91
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 91
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 88
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 82
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 82
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 74
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 74
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 74
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 64
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 55
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 55
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 51
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 51
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 48
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 48
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 44
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 44
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 44
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 41
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 41
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 38
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 38
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 35
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 35
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 36
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 36
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 42
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 42
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 47
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 47
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 52
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 64
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 64
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 76
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 76
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 86
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 86
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 93
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 93
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 99
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 104
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 104
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 104
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 108
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 113
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 113
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 113
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 117
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 121
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 121
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 121
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 125
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 128
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 128
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 130
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 130
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 130
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 130
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 124
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 124
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 116
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 116
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 108
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 108
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 101
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 101
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 94
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 94
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 89
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 83
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 83
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 83
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 79
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 79
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 79
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 74
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 70
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 70
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 68
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 68
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 70
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 70
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 70
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 70
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 70
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 70
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 70
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 70
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 69
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 69
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 72
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 77
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 77
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 79
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 79
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 79
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving left
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:208)
+ 
+(Filename: Assets/Webcam.cs Line: 208)
+
+X: 81
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 81
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 81
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 80
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 80
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Moving Right
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:206)
+ 
+(Filename: Assets/Webcam.cs Line: 206)
+
+X: 78
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 78
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 78
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+X: 78
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
+ 
+(Filename: Assets/Webcam.cs Line: 210)
+
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.000720 seconds (Nothing changed)
+X: 78
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Webcam:Update() (at Assets/Webcam.cs:210)
