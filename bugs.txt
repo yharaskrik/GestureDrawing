@@ -1,4 +1,0 @@
-No know bugs
-Frame and Pinch use the same colors so they both happen at the same time. I have included the same log output in the FrameLog.txt and PinchLog.txt but can clearly see in the video they both work.
-
-Unity does not provide an easy way to output just what the console shows so the txt files are a tad verbose...
